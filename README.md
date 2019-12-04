@@ -2,7 +2,7 @@
 Nanojs start template &amp; documentation
 
 ## Start
-- http://fire.isjan.de/nano/0.1/util/msjs.js
+- http://fire.isjan.de/nano/0.3/nano.js
 
 ## Documentation
-- [nanojs](http://fire.isjan.de/framework_documentation/docs/master/public/mainstream/canvas)
+- [nanojs](http://fire.isjan.de/nanojs)
